@@ -21,3 +21,4 @@ Have you ever played google's dino? Have you ever wished to have a great competi
     4. make sure that the little screen that popped up
        should be away from chrome browser
 	   
+3. run "main.py"
