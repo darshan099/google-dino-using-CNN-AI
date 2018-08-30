@@ -15,10 +15,8 @@ Have you ever played google's dino? Have you ever wished to have a great competi
 2. grab the region of the screen
     1. open your google chrome
     2. type "chrome://dino" in your address bar
-    3. now select "windows key+left arrow" or similar key
-       according to your os to align to extreme left of
-       your window
-    4. make sure that the little screen that popped up
-       should be away from chrome browser
+	3. make sure that nothing blocks the dino
 	   
 3. run "main.py"
+
+note: this model works only for windows. linux versions will be updated soon :)
